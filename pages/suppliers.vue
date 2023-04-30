@@ -3,7 +3,7 @@
         <!-- top -->
         <div class="w-full flex mt-8 lg:mt-24 relative p-2">
             <img class="hidden lg:block absolute right-0 z-10" src="/img/vector-right.png" alt="">
-            <img class="absolute w-1/3 lg:w-80 lg:right-36 lg:top-0 top-72" src="/img/vector-sup.png" alt="">
+            <img class="absolute w-1/3 lg:w-80 lg:right-36 lg:top-0 top-72" src="/img/Vector-sup.png" alt="">
             <div class="flex flex-col-reverse lg:flex-row gap-8 items-center container mx-auto z-20">
                 <div class="flex flex-col w-full space-y-8">
                     <p class="text-3xl lg:text-6xl">تامین کنندگان</p>
